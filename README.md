@@ -6,7 +6,7 @@ VeriVeri seti https://www.kaggle.com/tmcketterick/heights-and-weights adresi üz
 ## y=m*x+b ifadesinden sırasıyla m ve b değerleri bulunur. Değerler sonucunda x verileri girilerek hata payı hesaplanır.
 
 ## m değerini hesaplamak için,
-![m](https://user-images.githubusercontent.com/25990177/67681691-e3973f80-f99e-11e9-8e62-a61846cb68c3.jpg)
+![mn](https://user-images.githubusercontent.com/25990177/67683156-e8112780-f9a1-11e9-9e0d-acc691005dd2.jpg)
 
 ## b değerini hesaplamak için,
 ![B](https://user-images.githubusercontent.com/25990177/67682016-85b72780-f99f-11e9-9b2e-c493cbb3a45f.jpg)
