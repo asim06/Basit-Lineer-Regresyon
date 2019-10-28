@@ -1,6 +1,6 @@
 # Basit-Lineer-Regresyon
 Küçük kareler yöntemi için veri seti üzerinden uygun işlemler yapılarak hata payı hesaplanmıştır.
-VeriVeri seti https://www.kaggle.com/tmcketterick/heights-and-weights adresi üzerinden alınmıştır.
+Veri seti https://www.kaggle.com/tmcketterick/heights-and-weights adresi üzerinden alınmıştır.
 30-39 yaş arasındaki Amerikalı kadınların bir örneğinde, kadınlar için boylarının bir fonksiyonu olarak ortalama kütleler vermektedir.
 
 ### y=m*x+b ifadesinden sırasıyla m ve b değerleri bulunur. Değerler sonucunda x verileri girilerek hata payı hesaplanır.
